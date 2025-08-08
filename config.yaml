@@ -1,0 +1,15 @@
+logger_id: 10300
+
+battery_voltage_threshold:
+  over_voltage: 15.0
+  normal_min: 12.6
+  normal_max: 15.0
+  low_min: 11.2
+  low_max: 12.5
+  under_voltage: 11.2
+
+voltage_label:
+  over_voltage: "Over Voltage"
+  normal: "Normal"
+  low: "Low Voltage"
+  under_voltage: "Under Voltage"
